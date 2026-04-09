@@ -1,5 +1,6 @@
 # Rutilo
 
+
 Aplicación React mínima con Vite para practicar despliegue en GitHub Pages y validación con GitHub Actions.
 
 ## Cómo usar
